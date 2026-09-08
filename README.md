@@ -14,24 +14,38 @@
 
 ## 🏆 GitHub Achievements
 
+Official badges under the profile photo are granted by GitHub. **YOLO** is unlocked. Others unlock from real activity (merged PRs, stars, discussions) — they cannot be added by editing this README.
+
 <p align="center">
-  <a href="https://github.com/jjart05?achievement=yolo&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="120" />
-  </a>
-  <a href="https://github.com/jjart05?achievement=pull-shark&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="120" />
+  <a href="https://github.com/jjart05?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO — unlocked" width="128" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-Unlocked-6e40c9?style=for-the-badge" alt="YOLO unlocked" />
+  <img src="https://img.shields.io/badge/Pull_Shark-1%2F2_merged_PRs-586069?style=for-the-badge" alt="Pull Shark in progress" />
+  <img src="https://img.shields.io/badge/Quickdraw-Close_issue_in_5_min-586069?style=for-the-badge" alt="Quickdraw locked" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Needs_coauthor-586069?style=for-the-badge" alt="Pair Extraordinaire locked" />
+  <img src="https://img.shields.io/badge/Starstruck-Needs_16_stars-586069?style=for-the-badge" alt="Starstruck locked" />
+  <img src="https://img.shields.io/badge/Galaxy_Brain-Needs_discussions-586069?style=for-the-badge" alt="Galaxy Brain locked" />
+</p>
+
+**Project badges**
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_First_Repo-Unlocked-6e40c9?style=for-the-badge" alt="First repo" />
   <img src="https://img.shields.io/badge/💜_C%23_Builder-Unlocked-239120?style=for-the-badge" alt="C# builder" />
   <img src="https://img.shields.io/badge/💛_JavaScript_Maker-Unlocked-F7DF1E?style=for-the-badge" alt="JavaScript maker" />
   <img src="https://img.shields.io/badge/☕_Java_Coder-Unlocked-ED8B00?style=for-the-badge" alt="Java coder" />
+  <img src="https://img.shields.io/badge/🌐_HTML_CSS-Unlocked-E34F26?style=for-the-badge" alt="HTML CSS" />
   <img src="https://img.shields.io/badge/🌱_Leaf_%26_Bloom-Shipped-2ea44f?style=for-the-badge" alt="Leaf and Bloom" />
   <img src="https://img.shields.io/badge/🎵_SpotiBai-Shipped-1DB954?style=for-the-badge" alt="SpotiBai" />
   <img src="https://img.shields.io/badge/📘_Journal_Entry-Shipped-0969da?style=for-the-badge" alt="Journal Entry" />
+  <img src="https://img.shields.io/badge/🧮_SimpleCalc-Shipped-ED8B00?style=for-the-badge" alt="SimpleCalc" />
+  <img src="https://img.shields.io/badge/🏫_AppsDev_Labs-In_progress-239120?style=for-the-badge" alt="AppsDev labs" />
   <img src="https://img.shields.io/badge/⭐_Starred_Projects-3-e3b341?style=for-the-badge" alt="Starred projects" />
+  <img src="https://img.shields.io/badge/📝_Profile_README-Live-0e75b6?style=for-the-badge" alt="Profile README" />
 </p>
 
 <p align="center">
