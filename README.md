@@ -12,7 +12,16 @@
 
 ---
 
-## 🏆 Achievements unlocked
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/jjart05?achievement=yolo&tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="120" />
+  </a>
+  <a href="https://github.com/jjart05?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="120" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_First_Repo-Unlocked-6e40c9?style=for-the-badge" alt="First repo" />
