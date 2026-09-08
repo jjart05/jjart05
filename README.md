@@ -12,14 +12,21 @@
 
 ---
 
-## 🏆 Achievements & trophies
+## 🏆 Achievements unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjart05&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/🎯_First_Repo-Unlocked-6e40c9?style=for-the-badge" alt="First repo" />
+  <img src="https://img.shields.io/badge/💜_C%23_Builder-Unlocked-239120?style=for-the-badge" alt="C# builder" />
+  <img src="https://img.shields.io/badge/💛_JavaScript_Maker-Unlocked-F7DF1E?style=for-the-badge" alt="JavaScript maker" />
+  <img src="https://img.shields.io/badge/☕_Java_Coder-Unlocked-ED8B00?style=for-the-badge" alt="Java coder" />
+  <img src="https://img.shields.io/badge/🌱_Leaf_%26_Bloom-Shipped-2ea44f?style=for-the-badge" alt="Leaf and Bloom" />
+  <img src="https://img.shields.io/badge/🎵_SpotiBai-Shipped-1DB954?style=for-the-badge" alt="SpotiBai" />
+  <img src="https://img.shields.io/badge/📘_Journal_Entry-Shipped-0969da?style=for-the-badge" alt="Journal Entry" />
+  <img src="https://img.shields.io/badge/⭐_Starred_Projects-3-e3b341?style=for-the-badge" alt="Starred projects" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjart05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=jjart05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -27,8 +34,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjart05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjart05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=jjart05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jjart05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 ---
@@ -61,14 +68,6 @@
 | [**Journal-Entry**](https://github.com/jjart05/Journal-Entry) | JavaScript | Accounting journal entries |
 | [**SimpleCalc**](https://github.com/jjart05/SimpleCalc) | Java | Simple calculator |
 | [**CC-APPSDEV22 labs**](https://github.com/jjart05?tab=repositories) | C# | AppsDev coursework & labs |
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjart05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
 
 ---
 
