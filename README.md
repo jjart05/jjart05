@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Johnny 👋
+# Hey, I'm Johnny
 
 **Developer in progress** · C# · JavaScript · Java · HTML/CSS
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=jjart05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Languages**
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Featured projects
+##  Featured projects
 
 | Project | Stack | What it is |
 | --- | --- | --- |
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-⭐️ From [jjart05](https://github.com/jjart05)
+ From [jjart05](https://github.com/jjart05)
 
 </div>
